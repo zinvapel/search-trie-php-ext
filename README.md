@@ -10,7 +10,7 @@ Installation:
 6. Add `extension=utils.so` to your php.ini
 
 Usage:
-```
+```php
 <?php
 
 $ts = microtime(true);
