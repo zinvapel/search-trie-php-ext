@@ -7,7 +7,7 @@ Installation:
 3. `composer install`
 4. `cd zp_strie`
 5. `../vendor/bin/zephir build`
-6. Add `extension=utils.so` to your php.ini
+6. Add `extension=zp_strie.so` to your php.ini
 
 Usage:
 ```php
