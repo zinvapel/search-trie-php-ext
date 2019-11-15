@@ -2,3 +2,5 @@
 .zephir
 vendor
 example/test.php
+zp_strie/compile.log
+zp_strie/compile-errors.log
