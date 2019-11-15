@@ -11,20 +11,5 @@
     ],
     "require": {
         "phalcon/zephir": "^0.12.11"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer",
-            "options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            }
-        },
-        {
-            "packagist": false
-        }
-    ]
+    }
 }
