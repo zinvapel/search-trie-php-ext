@@ -24,14 +24,14 @@ TXT;
 
 $trie = Zp_Strie\Fnt_Utf8::makeText($txt, static function (int $char) {
     return $char < 65 || ($char > 127 && $char < 161) || $char === 173;
-});
+}, true);
 
-$needleList = ['папа', 'граф', 'охота', 'Батюшка', 'noname'];
+$needleList = ['папа', 'граф', 'охота', 'батюшка', 'noname'];
 
 foreach ($needleList as $needle) {
     $localTree = $trie;
 
-    foreach (Zp_Strie\Fnt_Utf8::toCharList($needle) as $char) {
+    foreach (Zp_Strie\Fnt_Utf8::toCharList($needle, true) as $char) {
         if ($localTree->next($char << 1) === null) {
             echo "$needle does not exist", PHP_EOL;
             continue 2;
