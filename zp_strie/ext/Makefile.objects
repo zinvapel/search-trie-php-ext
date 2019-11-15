@@ -1,0 +1,52 @@
+zp_strie.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie.c -o zp_strie.lo 
+kernel/main.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/main.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/main.c -o kernel/main.lo 
+kernel/memory.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/memory.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/memory.c -o kernel/memory.lo 
+kernel/exception.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/exception.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/exception.c -o kernel/exception.lo 
+kernel/debug.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/debug.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/debug.c -o kernel/debug.lo 
+kernel/backtrace.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/backtrace.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/backtrace.c -o kernel/backtrace.lo 
+kernel/object.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/object.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/object.c -o kernel/object.lo 
+kernel/array.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/array.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/array.c -o kernel/array.lo 
+kernel/string.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/string.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/string.c -o kernel/string.lo 
+kernel/fcall.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/fcall.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/fcall.c -o kernel/fcall.lo 
+kernel/require.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/require.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/require.c -o kernel/require.lo 
+kernel/file.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/file.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/file.c -o kernel/file.lo 
+kernel/operators.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/operators.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/operators.c -o kernel/operators.lo 
+kernel/math.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/math.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/math.c -o kernel/math.lo 
+kernel/concat.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/concat.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/concat.c -o kernel/concat.lo 
+kernel/variables.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/variables.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/variables.c -o kernel/variables.lo 
+kernel/filter.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/filter.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/filter.c -o kernel/filter.lo 
+kernel/iterator.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/iterator.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/iterator.c -o kernel/iterator.lo 
+kernel/time.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/time.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/time.c -o kernel/time.lo 
+kernel/exit.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/exit.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/kernel/exit.c -o kernel/exit.lo 
+zp_strie/fnt.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/fnt.zep.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/fnt.zep.c -o zp_strie/fnt.lo 
+zp_strie/fnt_utf8.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/fnt_utf8.zep.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/fnt_utf8.zep.c -o zp_strie/fnt_utf8.lo 
+zp_strie/trie.lo: /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/trie.zep.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/Users/ruamtp3/home/zp_strie/zp_strie/ext $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /Users/ruamtp3/home/zp_strie/zp_strie/ext/zp_strie/trie.zep.c -o zp_strie/trie.lo 
+$(phplibdir)/zp_strie.la: ./zp_strie.la
+	$(LIBTOOL) --mode=install cp ./zp_strie.la $(phplibdir)
+
+./zp_strie.la: $(shared_objects_zp_strie) $(ZP_STRIE_SHARED_DEPENDENCIES)
+	$(LIBTOOL) --mode=link $(CC) $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS) $(LDFLAGS)  -o $@ -export-dynamic -avoid-version -prefer-pic -module -rpath $(phplibdir) $(EXTRA_LDFLAGS) $(shared_objects_zp_strie) $(ZP_STRIE_SHARED_LIBADD)
+

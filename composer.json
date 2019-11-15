@@ -1,0 +1,30 @@
+{
+    "name": "zinvapel/zp_strie",
+    "description": "Search tree extension builded with Zephir",
+    "type": "php-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Murtazin",
+            "email": "zinvapel@icloud.com"
+        }
+    ],
+    "require": {
+        "phalcon/zephir": "^0.12.11"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer",
+            "options": {
+                "ssl": {
+                    "verify_peer": false,
+                    "verify_peer_name": false
+                }
+            }
+        },
+        {
+            "packagist": false
+        }
+    ]
+}
