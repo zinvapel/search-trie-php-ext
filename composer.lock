@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "70a5d86a5d106b737f0f5119dfc8c306",
+    "content-hash": "96c56c0575af5da1b4cffbdfde0d6307",
     "packages": [
         {
             "name": "league/flysystem",
@@ -16,7 +16,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/thephpleague/flysystem/0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a",
                 "reference": "0e9db7f0b96b9f12dcf6f65bc34b72b1a30ea55a",
                 "shasum": ""
             },
@@ -87,12 +87,6 @@
                 "sftp",
                 "storage"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-16T21:01:05+00:00"
         },
         {
@@ -105,7 +99,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/Seldaek/monolog/d5e2fb341cb44f7e2ab639d12a1e5901091ec287",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/d5e2fb341cb44f7e2ab639d12a1e5901091ec287",
                 "reference": "d5e2fb341cb44f7e2ab639d12a1e5901091ec287",
                 "shasum": ""
             },
@@ -170,12 +164,6 @@
                 "logging",
                 "psr-3"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-13T10:00:05+00:00"
         },
         {
@@ -188,7 +176,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/Ocramius/PackageVersions/1d32342b8c1eb27353c8887c366147b4c2da673c",
+                "url": "https://api.github.com/repos/Ocramius/PackageVersions/zipball/1d32342b8c1eb27353c8887c366147b4c2da673c",
                 "reference": "1d32342b8c1eb27353c8887c366147b4c2da673c",
                 "shasum": ""
             },
@@ -226,12 +214,6 @@
                 }
             ],
             "description": "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-07-17T15:49:50+00:00"
         },
         {
@@ -244,7 +226,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/Ocramius/ProxyManager/a55d08229f4f614bf335759ed0cf63378feeb2e6",
+                "url": "https://api.github.com/repos/Ocramius/ProxyManager/zipball/a55d08229f4f614bf335759ed0cf63378feeb2e6",
                 "reference": "a55d08229f4f614bf335759ed0cf63378feeb2e6",
                 "shasum": ""
             },
@@ -296,12 +278,6 @@
                 "proxy pattern",
                 "service proxies"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2016-11-04T15:53:15+00:00"
         },
         {
@@ -314,7 +290,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/1up-lab/OneupFlysystemBundle/697cb9bdf86b578ac77932511375ab8f29f3c5d8",
+                "url": "https://api.github.com/repos/1up-lab/OneupFlysystemBundle/zipball/697cb9bdf86b578ac77932511375ab8f29f3c5d8",
                 "reference": "697cb9bdf86b578ac77932511375ab8f29f3c5d8",
                 "shasum": ""
             },
@@ -397,12 +373,6 @@
                 "abstraction",
                 "filesystem"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-04-26T13:11:17+00:00"
         },
         {
@@ -415,7 +385,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/phalcon/zephir/8b9430c33bdec75aa9577b19d221908370536078",
+                "url": "https://api.github.com/repos/phalcon/zephir/zipball/8b9430c33bdec75aa9577b19d221908370536078",
                 "reference": "8b9430c33bdec75aa9577b19d221908370536078",
                 "shasum": ""
             },
@@ -489,12 +459,6 @@
                 "phalcon",
                 "zephir"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-02T14:49:38+00:00"
         },
         {
@@ -507,7 +471,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/php-fig/cache/d11b50ad223250cf17b86e38383413f5a6764bf8",
+                "url": "https://api.github.com/repos/php-fig/cache/zipball/d11b50ad223250cf17b86e38383413f5a6764bf8",
                 "reference": "d11b50ad223250cf17b86e38383413f5a6764bf8",
                 "shasum": ""
             },
@@ -540,12 +504,6 @@
                 "psr",
                 "psr-6"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2016-08-06T20:24:11+00:00"
         },
         {
@@ -558,7 +516,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/php-fig/container/b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
+                "url": "https://api.github.com/repos/php-fig/container/zipball/b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
                 "reference": "b7ce3b176482dbbc1245ebf52b181af44c2cf55f",
                 "shasum": ""
             },
@@ -594,12 +552,6 @@
                 "container-interop",
                 "psr"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2017-02-14T16:28:37+00:00"
         },
         {
@@ -612,7 +564,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/php-fig/log/446d54b4cb6bf489fc9d75f55843658e6f25d801",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/446d54b4cb6bf489fc9d75f55843658e6f25d801",
                 "reference": "446d54b4cb6bf489fc9d75f55843658e6f25d801",
                 "shasum": ""
             },
@@ -646,12 +598,6 @@
                 "psr",
                 "psr-3"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-01T11:05:21+00:00"
         },
         {
@@ -664,7 +610,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/php-fig/simple-cache/408d5eafb83c57f6365a3ca330ff23aa4a5fa39b",
+                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/408d5eafb83c57f6365a3ca330ff23aa4a5fa39b",
                 "reference": "408d5eafb83c57f6365a3ca330ff23aa4a5fa39b",
                 "shasum": ""
             },
@@ -699,12 +645,6 @@
                 "psr-16",
                 "simple-cache"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2017-10-23T01:57:42+00:00"
         },
         {
@@ -717,7 +657,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/cache/8d5db9c0cecf8b6f79fa96583fae652224d897da",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/8d5db9c0cecf8b6f79fa96583fae652224d897da",
                 "reference": "8d5db9c0cecf8b6f79fa96583fae652224d897da",
                 "shasum": ""
             },
@@ -774,12 +714,6 @@
                 "caching",
                 "psr6"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-12T12:50:33+00:00"
         },
         {
@@ -792,7 +726,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/class-loader/e212b06996819a2bce026a63da03b7182d05a690",
+                "url": "https://api.github.com/repos/symfony/class-loader/zipball/e212b06996819a2bce026a63da03b7182d05a690",
                 "reference": "e212b06996819a2bce026a63da03b7182d05a690",
                 "shasum": ""
             },
@@ -835,12 +769,6 @@
             ],
             "description": "Symfony ClassLoader Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-20T13:31:17+00:00"
         },
         {
@@ -853,7 +781,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/config/c3a30587de97263d2813a3c81b74126c58b67a4f",
+                "url": "https://api.github.com/repos/symfony/config/zipball/c3a30587de97263d2813a3c81b74126c58b67a4f",
                 "reference": "c3a30587de97263d2813a3c81b74126c58b67a4f",
                 "shasum": ""
             },
@@ -904,12 +832,6 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-08T08:28:59+00:00"
         },
         {
@@ -922,7 +844,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/console/17b154f932c5874cdbda6d05796b6490eec9f9f7",
+                "url": "https://api.github.com/repos/symfony/console/zipball/17b154f932c5874cdbda6d05796b6490eec9f9f7",
                 "reference": "17b154f932c5874cdbda6d05796b6490eec9f9f7",
                 "shasum": ""
             },
@@ -981,12 +903,6 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-13T07:12:39+00:00"
         },
         {
@@ -999,7 +915,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/debug/5ea9c3e01989a86ceaa0283f21234b12deadf5e2",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/5ea9c3e01989a86ceaa0283f21234b12deadf5e2",
                 "reference": "5ea9c3e01989a86ceaa0283f21234b12deadf5e2",
                 "shasum": ""
             },
@@ -1042,12 +958,6 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-28T17:07:32+00:00"
         },
         {
@@ -1060,7 +970,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/dependency-injection/0ea4d39ca82409a25a43b61ce828048a90000920",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/0ea4d39ca82409a25a43b61ce828048a90000920",
                 "reference": "0ea4d39ca82409a25a43b61ce828048a90000920",
                 "shasum": ""
             },
@@ -1118,12 +1028,6 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-08T16:18:30+00:00"
         },
         {
@@ -1136,7 +1040,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/event-dispatcher/f9031c22ec127d4a2450760f81a8677fe8a10177",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/f9031c22ec127d4a2450760f81a8677fe8a10177",
                 "reference": "f9031c22ec127d4a2450760f81a8677fe8a10177",
                 "shasum": ""
             },
@@ -1186,12 +1090,6 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-24T15:33:53+00:00"
         },
         {
@@ -1204,7 +1102,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/filesystem/00e3a6ddd723b8bcfe4f2a1b6f82b98eeeb51516",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/00e3a6ddd723b8bcfe4f2a1b6f82b98eeeb51516",
                 "reference": "00e3a6ddd723b8bcfe4f2a1b6f82b98eeeb51516",
                 "shasum": ""
             },
@@ -1241,12 +1139,6 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-20T13:31:17+00:00"
         },
         {
@@ -1259,7 +1151,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/finder/3e915e5ce305f8bc8017597f71f1f4095092ddf8",
+                "url": "https://api.github.com/repos/symfony/finder/zipball/3e915e5ce305f8bc8017597f71f1f4095092ddf8",
                 "reference": "3e915e5ce305f8bc8017597f71f1f4095092ddf8",
                 "shasum": ""
             },
@@ -1295,12 +1187,6 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-30T12:43:22+00:00"
         },
         {
@@ -1313,7 +1199,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/framework-bundle/3cb98792e8d1fa332c65b28521eeaa6e9bbeea34",
+                "url": "https://api.github.com/repos/symfony/framework-bundle/zipball/3cb98792e8d1fa332c65b28521eeaa6e9bbeea34",
                 "reference": "3cb98792e8d1fa332c65b28521eeaa6e9bbeea34",
                 "shasum": ""
             },
@@ -1415,12 +1301,6 @@
             ],
             "description": "Symfony FrameworkBundle",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-03T19:32:26+00:00"
         },
         {
@@ -1433,7 +1313,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/http-foundation/cabe67275034e173350e158f3b1803d023880227",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/cabe67275034e173350e158f3b1803d023880227",
                 "reference": "cabe67275034e173350e158f3b1803d023880227",
                 "shasum": ""
             },
@@ -1475,12 +1355,6 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-12T13:07:20+00:00"
         },
         {
@@ -1493,7 +1367,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/http-kernel/e1764b3de00ec5636dd03d02fd44bcb1147d70d9",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/e1764b3de00ec5636dd03d02fd44bcb1147d70d9",
                 "reference": "e1764b3de00ec5636dd03d02fd44bcb1147d70d9",
                 "shasum": ""
             },
@@ -1570,12 +1444,6 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-13T08:44:50+00:00"
         },
         {
@@ -1588,7 +1456,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/mime/22aecf6b11638ef378fab25d6c5a2da8a31a1448",
+                "url": "https://api.github.com/repos/symfony/mime/zipball/22aecf6b11638ef378fab25d6c5a2da8a31a1448",
                 "reference": "22aecf6b11638ef378fab25d6c5a2da8a31a1448",
                 "shasum": ""
             },
@@ -1634,12 +1502,6 @@
                 "mime",
                 "mime-type"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-12T13:10:02+00:00"
         },
         {
@@ -1652,7 +1514,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/monolog-bridge/a2c763498f3fa69bd65a615ad4b89d6bd1d9ce20",
+                "url": "https://api.github.com/repos/symfony/monolog-bridge/zipball/a2c763498f3fa69bd65a615ad4b89d6bd1d9ce20",
                 "reference": "a2c763498f3fa69bd65a615ad4b89d6bd1d9ce20",
                 "shasum": ""
             },
@@ -1706,12 +1568,6 @@
             ],
             "description": "Symfony Monolog Bridge",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-07T11:38:48+00:00"
         },
         {
@@ -1724,7 +1580,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/monolog-bundle/572e143afc03419a75ab002c80a2fd99299195ff",
+                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/572e143afc03419a75ab002c80a2fd99299195ff",
                 "reference": "572e143afc03419a75ab002c80a2fd99299195ff",
                 "shasum": ""
             },
@@ -1774,12 +1630,6 @@
                 "log",
                 "logging"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2018-11-04T09:58:13+00:00"
         },
         {
@@ -1792,7 +1642,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-apcu/71ce80635d5dcd67772b4dda00b86068595f64d5",
+                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/71ce80635d5dcd67772b4dda00b86068595f64d5",
                 "reference": "71ce80635d5dcd67772b4dda00b86068595f64d5",
                 "shasum": ""
             },
@@ -1835,12 +1685,6 @@
                 "portable",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -1853,7 +1697,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-ctype/550ebaac289296ce228a706d0867afc34687e3f4",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/550ebaac289296ce228a706d0867afc34687e3f4",
                 "reference": "550ebaac289296ce228a706d0867afc34687e3f4",
                 "shasum": ""
             },
@@ -1898,12 +1742,6 @@
                 "polyfill",
                 "portable"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -1916,7 +1754,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-intl-idn/6af626ae6fa37d396dc90a399c0ff08e5cfc45b2",
+                "url": "https://api.github.com/repos/symfony/polyfill-intl-idn/zipball/6af626ae6fa37d396dc90a399c0ff08e5cfc45b2",
                 "reference": "6af626ae6fa37d396dc90a399c0ff08e5cfc45b2",
                 "shasum": ""
             },
@@ -1965,12 +1803,6 @@
                 "portable",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -1983,7 +1815,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-mbstring/b42a2f66e8f1b15ccf25652c3424265923eb4f17",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/b42a2f66e8f1b15ccf25652c3424265923eb4f17",
                 "reference": "b42a2f66e8f1b15ccf25652c3424265923eb4f17",
                 "shasum": ""
             },
@@ -2029,12 +1861,6 @@
                 "portable",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -2047,7 +1873,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-php56/0e3b212e96a51338639d8ce175c046d7729c3403",
+                "url": "https://api.github.com/repos/symfony/polyfill-php56/zipball/0e3b212e96a51338639d8ce175c046d7729c3403",
                 "reference": "0e3b212e96a51338639d8ce175c046d7729c3403",
                 "shasum": ""
             },
@@ -2090,12 +1916,6 @@
                 "portable",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -2108,7 +1928,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-php72/04ce3335667451138df4307d6a9b61565560199e",
+                "url": "https://api.github.com/repos/symfony/polyfill-php72/zipball/04ce3335667451138df4307d6a9b61565560199e",
                 "reference": "04ce3335667451138df4307d6a9b61565560199e",
                 "shasum": ""
             },
@@ -2150,12 +1970,6 @@
                 "portable",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -2168,7 +1982,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/polyfill-util/4317de1386717b4c22caed7725350a8887ab205c",
+                "url": "https://api.github.com/repos/symfony/polyfill-util/zipball/4317de1386717b4c22caed7725350a8887ab205c",
                 "reference": "4317de1386717b4c22caed7725350a8887ab205c",
                 "shasum": ""
             },
@@ -2207,12 +2021,6 @@
                 "polyfill",
                 "shim"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-06T08:03:45+00:00"
         },
         {
@@ -2225,7 +2033,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/proxy-manager-bridge/3c185a0e45ea13334aaf7b0fa9726922816ebec6",
+                "url": "https://api.github.com/repos/symfony/proxy-manager-bridge/zipball/3c185a0e45ea13334aaf7b0fa9726922816ebec6",
                 "reference": "3c185a0e45ea13334aaf7b0fa9726922816ebec6",
                 "shasum": ""
             },
@@ -2266,12 +2074,6 @@
             ],
             "description": "Symfony ProxyManager Bridge",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-08-29T14:54:55+00:00"
         },
         {
@@ -2284,7 +2086,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/routing/afc10b9c6b5196e0fecbc3bd373c7b4482e5b6b5",
+                "url": "https://api.github.com/repos/symfony/routing/zipball/afc10b9c6b5196e0fecbc3bd373c7b4482e5b6b5",
                 "reference": "afc10b9c6b5196e0fecbc3bd373c7b4482e5b6b5",
                 "shasum": ""
             },
@@ -2347,12 +2149,6 @@
                 "uri",
                 "url"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-11-08T17:25:00+00:00"
         },
         {
@@ -2365,7 +2161,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/symfony/yaml/dab657db15207879217fc81df4f875947bf68804",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/dab657db15207879217fc81df4f875947bf68804",
                 "reference": "dab657db15207879217fc81df4f875947bf68804",
                 "shasum": ""
             },
@@ -2411,12 +2207,6 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-24T15:33:53+00:00"
         },
         {
@@ -2429,7 +2219,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/zendframework/zend-code/46feaeecea14161734b56c1ace74f28cb329f194",
+                "url": "https://api.github.com/repos/zendframework/zend-code/zipball/46feaeecea14161734b56c1ace74f28cb329f194",
                 "reference": "46feaeecea14161734b56c1ace74f28cb329f194",
                 "shasum": ""
             },
@@ -2469,12 +2259,6 @@
                 "code",
                 "zf"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2019-10-05T23:18:22+00:00"
         },
         {
@@ -2487,7 +2271,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://artifactory.raiffeisen.ru/artifactory/api/composer/php-composer/vcs-dists/zip/zendframework/zend-eventmanager/a5e2583a211f73604691586b8406ff7296a946dd",
+                "url": "https://api.github.com/repos/zendframework/zend-eventmanager/zipball/a5e2583a211f73604691586b8406ff7296a946dd",
                 "reference": "a5e2583a211f73604691586b8406ff7296a946dd",
                 "shasum": ""
             },
@@ -2528,12 +2312,6 @@
                 "events",
                 "zf2"
             ],
-            "transport-options": {
-                "ssl": {
-                    "verify_peer": false,
-                    "verify_peer_name": false
-                }
-            },
             "time": "2018-04-25T15:33:34+00:00"
         }
     ],
