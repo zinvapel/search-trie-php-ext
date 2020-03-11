@@ -2,6 +2,7 @@
 Built with [Zephir](https://zephir-lang.com/en)
 
 Installation:
+
 0. Install https://github.com/phalcon/php-zephir-parser
 1. `git clone git@github.com:zinvapel/ext_zp_strie.git`
 2. `cd ext_zp_strie`
